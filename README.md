@@ -27,6 +27,9 @@
 
 5:[Understanding JPA and Spring Data JPA](https://www.petrikainulainen.net/spring-data-jpa-tutorial/)
 
+### General resources
+- [Core Java Dzone Reader](https://dzone.com/storage/assets/487673-rc024-corejava.pdf)
+- [What makes a great java dev](https://dzone.com/articles/20-dev-leaders-thoughts-on-great-java-devs)
 
 # Unit Tests
 
